@@ -4,7 +4,7 @@
 **GitHub:** https://github.com/abhikaluri  
 **Role:** AI Research Analyst — Raman Effect (SERS + AI for WBE)  
 **Start Date with Humanitarians AI:** 2025-08-27  
-**Expected End Date/Duration:** 2025-11-30 (subject to renewal)
+**Expected End Date/Duration:** 2026-02-28 (subject to renewal)
 
 ## Background / Skills
 MS in Mechatronics, Robotics & Automation. Python, ML pipelines, documentation, robotic system integration.
@@ -14,8 +14,7 @@ Edward Olano
 
 ## Project Role / Interests
 - AI/ML for Raman/SERS spectra
-- Wastewater-based epidemiology signal processing
-- Manuscript preparation (Overleaf)
+- Manuscript preparation
 
 ## Links
 - Repo area: Dayhoff → `Projects/RAMAN-Effect`
